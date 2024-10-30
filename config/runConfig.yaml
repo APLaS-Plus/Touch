@@ -1,0 +1,20 @@
+model: ".//models//yolo11n_puzzle.pt"
+device: "cpu"
+conf: 0.85
+max_det: 3
+NMS: 0.8
+
+log: ".//logs//predict.log"
+rightArrowPngPath: ".//png//rightArrowSRC2.jpg"
+#  - ".//png//rightArrowSRC1.jpg"
+#  - ".//png//rightArrowSRC2.jpg"
+#  - ".//png//rightArrowSRC3.jpg"
+#  - ".//png//rightArrowSRC4.jpg"
+#  - ".//png//rightArrowSRC5.jpg"
+#  - ".//png//rightArrowSRC6.jpg"
+rightArrowConf: 0.9
+classes:
+  puzzle: 0
+  arrow: 1
+
+waitTime: 2

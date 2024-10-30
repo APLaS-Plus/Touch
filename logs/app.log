@@ -1,0 +1,178 @@
+2024-10-27 21:28:06,296 - INFO - .//models//yolo11n_puzzle.pt Model loaded
+2024-10-27 21:28:07,313 - INFO - Detected both puzzles, proceeding with target puzzle
+2024-10-27 21:28:08,593 - INFO - click (820, 599) and drag to: 1044,531
+2024-10-27 21:28:08,593 - INFO - Waiting for 2s to next detection
+2024-10-27 21:28:10,730 - INFO - Detected both puzzles, proceeding with target puzzle
+2024-10-27 21:28:12,009 - INFO - click (820, 599) and drag to: 1044,531
+2024-10-27 21:28:12,009 - INFO - Waiting for 2s to next detection
+2024-10-27 21:28:14,143 - INFO - Only detected target puzzle, proceeding
+2024-10-27 21:28:15,427 - INFO - click (800, 587) and drag to: 956,521
+2024-10-27 21:28:15,427 - INFO - Waiting for 2s to next detection
+2024-10-27 21:28:17,560 - INFO - Only detected target puzzle, proceeding
+2024-10-27 21:28:18,842 - INFO - click (820, 599) and drag to: 915,532
+2024-10-27 21:28:18,842 - INFO - Waiting for 2s to next detection
+2024-10-27 21:28:20,983 - INFO - Detected both puzzles, proceeding with target puzzle
+2024-10-27 21:28:22,276 - INFO - click (1171, 501) and drag to: 1412,239
+2024-10-27 21:28:22,276 - INFO - Waiting for 2s to next detection
+2024-10-27 21:28:24,409 - INFO - Puzzle detection count not matched, skipping
+2024-10-27 21:28:24,409 - INFO - Waiting for 2s to next detection
+2024-10-27 21:34:07,912 - INFO - .//models//yolo11n_puzzle.pt Model loaded
+2024-10-27 21:34:08,761 - INFO - Puzzle detection count not matched, skipping
+2024-10-27 21:34:08,761 - INFO - Waiting for 2s to next detection
+2024-10-27 21:34:10,908 - INFO - Puzzle detection count not matched, skipping
+2024-10-27 21:34:10,908 - INFO - Waiting for 2s to next detection
+2024-10-27 21:34:13,044 - INFO - Only detected target puzzle, proceeding
+2024-10-27 21:34:14,340 - INFO - click (820, 599) and drag to: 915,532
+2024-10-27 21:34:14,340 - INFO - Waiting for 2s to next detection
+2024-10-27 21:34:16,477 - INFO - Only detected target puzzle, proceeding
+2024-10-27 21:34:17,773 - INFO - click (800, 587) and drag to: 956,521
+2024-10-27 21:34:17,773 - INFO - Waiting for 2s to next detection
+2024-10-27 21:34:19,905 - INFO - Detected both puzzles, proceeding with target puzzle
+2024-10-27 21:34:21,190 - INFO - click (820, 599) and drag to: 1044,531
+2024-10-27 21:34:21,190 - INFO - Waiting for 2s to next detection
+2024-10-27 21:34:23,314 - INFO - Puzzle detection count not matched, skipping
+2024-10-27 21:34:23,315 - INFO - Waiting for 2s to next detection
+2024-10-28 21:13:08,082 - INFO - .//models//yolo11n_puzzle.pt Model loaded
+2024-10-28 21:13:09,390 - INFO - Puzzle detection count not matched, skipping
+2024-10-28 21:13:09,390 - INFO - Waiting for 2s to next detection
+2024-10-28 21:13:11,536 - INFO - Puzzle detection count not matched, skipping
+2024-10-28 21:13:11,536 - INFO - Waiting for 2s to next detection
+2024-10-28 21:13:13,674 - INFO - Puzzle detection count not matched, skipping
+2024-10-28 21:13:13,674 - INFO - Waiting for 2s to next detection
+2024-10-28 21:13:15,827 - INFO - Puzzle detection count not matched, skipping
+2024-10-28 21:13:15,827 - INFO - Waiting for 2s to next detection
+2024-10-28 21:13:17,975 - INFO - Puzzle detection count not matched, skipping
+2024-10-28 21:13:17,975 - INFO - Waiting for 2s to next detection
+2024-10-28 21:13:20,113 - INFO - Puzzle detection count not matched, skipping
+2024-10-28 21:13:20,113 - INFO - Waiting for 2s to next detection
+2024-10-28 21:13:22,265 - INFO - Puzzle detection count not matched, skipping
+2024-10-28 21:13:22,265 - INFO - Waiting for 2s to next detection
+2024-10-28 21:13:24,432 - INFO - Puzzle detection count not matched, skipping
+2024-10-28 21:13:24,432 - INFO - Waiting for 2s to next detection
+2024-10-28 21:13:26,578 - INFO - Puzzle detection count not matched, skipping
+2024-10-28 21:13:26,578 - INFO - Waiting for 2s to next detection
+2024-10-28 21:13:28,722 - INFO - Puzzle detection count not matched, skipping
+2024-10-28 21:13:28,722 - INFO - Waiting for 2s to next detection
+2024-10-28 21:13:30,865 - INFO - Puzzle detection count not matched, skipping
+2024-10-28 21:13:30,865 - INFO - Waiting for 2s to next detection
+2024-10-28 21:13:33,033 - INFO - Puzzle detection count not matched, skipping
+2024-10-28 21:13:33,033 - INFO - Waiting for 2s to next detection
+2024-10-28 21:13:35,178 - INFO - Puzzle detection count not matched, skipping
+2024-10-28 21:13:35,178 - INFO - Waiting for 2s to next detection
+2024-10-28 21:13:37,317 - INFO - Puzzle detection count not matched, skipping
+2024-10-28 21:13:37,317 - INFO - Waiting for 2s to next detection
+2024-10-28 21:13:39,470 - INFO - Puzzle detection count not matched, skipping
+2024-10-28 21:13:39,470 - INFO - Waiting for 2s to next detection
+2024-10-28 21:13:41,613 - INFO - Puzzle detection count not matched, skipping
+2024-10-28 21:13:41,613 - INFO - Waiting for 2s to next detection
+2024-10-28 21:13:43,769 - INFO - Puzzle detection count not matched, skipping
+2024-10-28 21:13:43,769 - INFO - Waiting for 2s to next detection
+2024-10-28 21:13:45,924 - INFO - Puzzle detection count not matched, skipping
+2024-10-28 21:13:45,924 - INFO - Waiting for 2s to next detection
+2024-10-28 21:13:48,074 - INFO - Puzzle detection count not matched, skipping
+2024-10-28 21:13:48,074 - INFO - Waiting for 2s to next detection
+2024-10-28 21:13:50,216 - INFO - Puzzle detection count not matched, skipping
+2024-10-28 21:13:50,216 - INFO - Waiting for 2s to next detection
+2024-10-28 21:13:52,354 - INFO - Puzzle detection count not matched, skipping
+2024-10-28 21:13:52,355 - INFO - Waiting for 2s to next detection
+2024-10-28 21:13:54,499 - INFO - Puzzle detection count not matched, skipping
+2024-10-28 21:13:54,499 - INFO - Waiting for 2s to next detection
+2024-10-28 21:13:56,638 - INFO - Puzzle detection count not matched, skipping
+2024-10-28 21:13:56,638 - INFO - Waiting for 2s to next detection
+2024-10-28 21:13:58,793 - INFO - Puzzle detection count not matched, skipping
+2024-10-28 21:13:58,793 - INFO - Waiting for 2s to next detection
+2024-10-28 21:14:00,947 - INFO - Puzzle detection count not matched, skipping
+2024-10-28 21:14:00,947 - INFO - Waiting for 2s to next detection
+2024-10-28 21:14:03,100 - INFO - Puzzle detection count not matched, skipping
+2024-10-28 21:14:03,100 - INFO - Waiting for 2s to next detection
+2024-10-28 21:14:05,239 - INFO - Puzzle detection count not matched, skipping
+2024-10-28 21:14:05,239 - INFO - Waiting for 2s to next detection
+2024-10-28 21:14:07,395 - INFO - Puzzle detection count not matched, skipping
+2024-10-28 21:14:07,395 - INFO - Waiting for 2s to next detection
+2024-10-28 21:14:09,547 - INFO - Puzzle detection count not matched, skipping
+2024-10-28 21:14:09,547 - INFO - Waiting for 2s to next detection
+2024-10-28 21:14:11,706 - INFO - Puzzle detection count not matched, skipping
+2024-10-28 21:14:11,707 - INFO - Waiting for 2s to next detection
+2024-10-28 21:14:13,882 - INFO - Couldn't detect anything, skipping
+2024-10-28 21:14:13,882 - INFO - Waiting for 2s to next detection
+2024-10-28 21:14:16,037 - INFO - Couldn't detect anything, skipping
+2024-10-28 21:14:16,037 - INFO - Waiting for 2s to next detection
+2024-10-28 21:14:18,193 - INFO - Couldn't detect anything, skipping
+2024-10-28 21:14:18,194 - INFO - Waiting for 2s to next detection
+2024-10-28 21:14:20,359 - INFO - Couldn't detect anything, skipping
+2024-10-28 21:14:20,359 - INFO - Waiting for 2s to next detection
+2024-10-28 21:14:22,511 - INFO - Puzzle detection count not matched, skipping
+2024-10-28 21:14:22,511 - INFO - Waiting for 2s to next detection
+2024-10-28 21:14:24,674 - INFO - Puzzle detection count not matched, skipping
+2024-10-28 21:14:24,674 - INFO - Waiting for 2s to next detection
+2024-10-28 21:14:26,831 - INFO - Puzzle detection count not matched, skipping
+2024-10-28 21:14:26,831 - INFO - Waiting for 2s to next detection
+2024-10-28 21:14:28,989 - INFO - Puzzle detection count not matched, skipping
+2024-10-28 21:14:28,989 - INFO - Waiting for 2s to next detection
+2024-10-28 21:14:31,157 - INFO - Puzzle detection count not matched, skipping
+2024-10-28 21:14:31,158 - INFO - Waiting for 2s to next detection
+2024-10-28 21:14:33,336 - INFO - Puzzle detection count not matched, skipping
+2024-10-28 21:14:33,336 - INFO - Waiting for 2s to next detection
+2024-10-28 21:14:35,487 - INFO - Couldn't detect anything, skipping
+2024-10-28 21:14:35,487 - INFO - Waiting for 2s to next detection
+2024-10-28 21:14:37,636 - INFO - Couldn't detect anything, skipping
+2024-10-28 21:14:37,636 - INFO - Waiting for 2s to next detection
+2024-10-28 21:14:39,787 - INFO - Couldn't detect anything, skipping
+2024-10-28 21:14:39,788 - INFO - Waiting for 2s to next detection
+2024-10-28 21:14:41,955 - INFO - Puzzle detection count not matched, skipping
+2024-10-28 21:14:41,956 - INFO - Waiting for 2s to next detection
+2024-10-28 21:14:44,118 - INFO - Puzzle detection count not matched, skipping
+2024-10-28 21:14:44,118 - INFO - Waiting for 2s to next detection
+2024-10-28 21:14:46,275 - INFO - Couldn't detect anything, skipping
+2024-10-28 21:14:46,275 - INFO - Waiting for 2s to next detection
+2024-10-28 21:14:48,429 - INFO - Couldn't detect anything, skipping
+2024-10-28 21:14:48,429 - INFO - Waiting for 2s to next detection
+2024-10-28 21:14:50,580 - INFO - Couldn't detect anything, skipping
+2024-10-28 21:14:50,580 - INFO - Waiting for 2s to next detection
+2024-10-28 21:14:52,731 - INFO - Couldn't detect anything, skipping
+2024-10-28 21:14:52,731 - INFO - Waiting for 2s to next detection
+2024-10-28 21:14:54,884 - INFO - Puzzle detection count not matched, skipping
+2024-10-28 21:14:54,884 - INFO - Waiting for 2s to next detection
+2024-10-28 21:14:57,037 - INFO - Couldn't detect anything, skipping
+2024-10-28 21:14:57,037 - INFO - Waiting for 2s to next detection
+2024-10-28 21:14:59,205 - INFO - Puzzle detection count not matched, skipping
+2024-10-28 21:14:59,206 - INFO - Waiting for 2s to next detection
+2024-10-28 21:15:01,385 - INFO - Puzzle detection count not matched, skipping
+2024-10-28 21:15:01,385 - INFO - Waiting for 2s to next detection
+2024-10-28 21:15:03,552 - INFO - Detected both puzzles, proceeding with target puzzle
+2024-10-28 21:15:04,822 - INFO - click (831, 582) and drag to: 1050,465
+2024-10-28 21:15:04,822 - INFO - Waiting for 2s to next detection
+2024-10-28 21:15:07,042 - INFO - Couldn't detect anything, skipping
+2024-10-28 21:15:07,042 - INFO - Waiting for 2s to next detection
+2024-10-28 21:15:09,205 - INFO - Couldn't detect anything, skipping
+2024-10-28 21:15:09,205 - INFO - Waiting for 2s to next detection
+2024-10-28 21:15:11,354 - INFO - Only detected target puzzle, proceeding
+2024-10-28 21:15:12,621 - INFO - click (831, 713) and drag to: 1377,465
+2024-10-28 21:15:12,621 - INFO - Waiting for 2s to next detection
+2024-10-28 21:15:14,771 - INFO - Detected both puzzles, proceeding with target puzzle
+2024-10-28 21:15:16,050 - INFO - click (831, 713) and drag to: 1377,465
+2024-10-28 21:15:16,050 - INFO - Waiting for 2s to next detection
+2024-10-28 21:15:18,221 - INFO - Only detected target puzzle, proceeding
+2024-10-28 21:15:19,521 - INFO - click (831, 712) and drag to: 1377,465
+2024-10-28 21:15:19,521 - INFO - Waiting for 2s to next detection
+2024-10-28 21:15:56,725 - INFO - .//models//yolo11n_puzzle.pt Model loaded
+2024-10-28 21:15:57,733 - INFO - Detected both puzzles, proceeding with target puzzle
+2024-10-28 21:15:59,030 - INFO - click (820, 599) and drag to: 1044,531
+2024-10-28 21:15:59,030 - INFO - Waiting for 2s to next detection
+2024-10-28 21:16:01,183 - INFO - Only detected target puzzle, proceeding
+2024-10-28 21:16:02,464 - INFO - click (800, 587) and drag to: 955,521
+2024-10-28 21:16:02,464 - INFO - Waiting for 2s to next detection
+2024-10-28 21:16:04,609 - INFO - Only detected target puzzle, proceeding
+2024-10-28 21:16:05,892 - INFO - click (820, 598) and drag to: 915,532
+2024-10-28 21:16:05,892 - INFO - Waiting for 2s to next detection
+2024-10-28 21:16:08,047 - INFO - Only detected target puzzle, proceeding
+2024-10-28 21:16:09,323 - INFO - click (820, 599) and drag to: 1056,531
+2024-10-28 21:16:09,323 - INFO - Waiting for 2s to next detection
+2024-10-28 21:16:11,466 - INFO - Only detected target puzzle, proceeding
+2024-10-28 21:16:12,750 - INFO - click (820, 598) and drag to: 948,531
+2024-10-28 21:16:12,750 - INFO - Waiting for 2s to next detection
+2024-10-28 21:16:14,909 - INFO - Only detected target puzzle, proceeding
+2024-10-28 21:16:16,201 - INFO - click (820, 599) and drag to: 948,531
+2024-10-28 21:16:16,201 - INFO - Waiting for 2s to next detection
+2024-10-28 21:16:18,349 - INFO - Couldn't detect anything, skipping
+2024-10-28 21:16:18,349 - INFO - Waiting for 2s to next detection
